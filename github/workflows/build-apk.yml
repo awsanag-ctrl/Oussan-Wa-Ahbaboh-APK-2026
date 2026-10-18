@@ -1,5 +1,4 @@
-name: Build Oussan APK
-
+name: Build Oussan APK android
 on:
   workflow_dispatch:
   push:
